@@ -1,5 +1,5 @@
 # Binary-Tree
-Implementação simples de árvore binária
+Implementação simples de árvore binária em C++
 
 Run the following commands:
 
